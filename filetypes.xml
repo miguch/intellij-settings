@@ -9,6 +9,7 @@
       <mapping ext="trectext" type="PLAIN_TEXT" />
       <mapping ext="trecweb" type="PLAIN_TEXT" />
       <mapping ext="postingblock" type="PLAIN_TEXT" />
+      <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
